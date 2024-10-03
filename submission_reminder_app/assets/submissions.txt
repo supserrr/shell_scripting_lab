@@ -1,0 +1,13 @@
+student, assignment, submission status
+here, Shell Navigation, submitted
+Noel, Shell Navigation, not submitted
+Alice,Python Basics,not submitted
+Bob,Data Structures,submitted
+Charlie,Algorithms,not submitted
+David,Machine Learning,submitted
+Eve,Web Development,not submitted
+Alice,Python Basics,not submitted
+Bob,Data Structures,submitted
+Charlie,Algorithms,not submitted
+David,Machine Learning,submitted
+Eve,Web Development,not submitted
